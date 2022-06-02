@@ -1,1 +1,7 @@
 I am adding something in main branch.
+
+Today I am practicing git hub.
+and trying to push something in new branch.
+I am adding something in new branch.
+
+
